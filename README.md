@@ -19,7 +19,7 @@ Notebook : [**Github**](https://nbviewer.jupyter.org/github/ashishpatel26/SRGAN-
 
 ---
 
-![](D:\aiforgood\SRGAN-Keras-For-Medical-Images\Image\Brainmri.jpg)
+![](https://github.com/ashishpatel26/SRGAN-Keras-For-Medical-Images/raw/main/Image/Brainmri.jpg)
 
 **Thanks for reading**
 
